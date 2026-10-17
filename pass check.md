@@ -1,3 +1,6 @@
+##### Đây là bài write-up về bài pass_check
+
+
 # I. BÀI LÀM BẰNG C++
 
 ### Bước 1: Tạo file và thêm thư viện
