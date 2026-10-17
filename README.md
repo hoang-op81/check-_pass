@@ -3,11 +3,11 @@
 ### C++
 
 
-#include <iostream>
-#include <string>
-using namespace std;
+    #include <iostream>
+    #include <string>
+    using namespace std;
 
-int main() {
+    int main() {
 
     string secret = "GMBH|D0ef_Cb4t1d~";
     string input;
@@ -29,12 +29,12 @@ int main() {
     }
   
     return 0;
-}
+    }
 
 ### Python
 
-secret = "GMBH|D0ef_Cb4t1d~" <br>
-for a in secret:  <br>
-    print(chr(ord(a) - 1), end = '')  <br>
+secret = "GMBH|D0ef_Cb4t1d~"                                 <br>
+for a in secret:                                             <br>
+    print(chr(ord(a) - 1), end = '')                         <br>
 
 
