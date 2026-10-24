@@ -31,10 +31,4 @@
     return 0;
     }
 
-### Python
-
-secret = "GMBH|D0ef_Cb4t1d~"                                 <br>
-for a in secret:                                             <br>
-    print(chr(ord(a) - 1), end = ' ')                         <br>
-
 
